@@ -1,0 +1,5 @@
+[graphics]
+fullscreen = false
+vsync = true
+max_fps = 144
+
