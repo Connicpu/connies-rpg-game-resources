@@ -2,4 +2,4 @@
 fullscreen = false
 vsync = true
 max_fps = 144
-
+fxaa = true
