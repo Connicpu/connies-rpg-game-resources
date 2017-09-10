@@ -1,0 +1,24 @@
+[animation]
+h_frames = 3
+v_frames = 1
+states = ["standing", "walking"]
+
+[states.standing]
+loop = false
+
+[[states.standing.frames]]
+x = 0
+y = 0
+
+[states.walking]
+loop = true
+
+[[states.walking.frames]]
+x = 1
+y = 0
+time = 0.25
+
+[[states.walking.frames]]
+x = 2
+y = 0
+time = 0.2
