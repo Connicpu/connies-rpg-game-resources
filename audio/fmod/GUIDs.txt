@@ -1,0 +1,4 @@
+{1c7bed32-a7e1-4b11-85bc-e6da9b09c70f} event:/jump
+{20d7f512-23aa-4d1a-ad41-50f9b69ec383} bus:/
+{1008ea93-7abf-4503-a112-c3f57686ac53} bus:/Reverb
+{b5e92da3-82ad-43c2-844d-fabe0780496e} bank:/Master Bank
